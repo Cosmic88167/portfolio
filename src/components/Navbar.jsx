@@ -15,7 +15,7 @@ const Navbar = () => {
   // For Downloading Resume
   const handleDownload = () => {
     window.open(
-      "https://drive.google.com/file/d/1Ev9tpZY38nzb_wrgxJ7I7oLawIbuicGO/view?usp=drive_link",
+      "https://drive.google.com/file/d/1jKklpzKlD_SLq0TMIOeuC56VwoGo3xwr/view?usp=sharing",
       "_blank"
     );
   };
