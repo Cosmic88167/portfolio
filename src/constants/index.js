@@ -285,7 +285,7 @@ const projects = [
     ],
     image: Mine_Wine,
     source_code_link: "https://github.com/Cosmic88167/cpu_schedular",
-    // live_hosted_link: "https://mine-wine-polytechnic.netlify.app/",
+     live_hosted_link: "https://schedulor.netlify.app/",
   },
   {
     name: "Attendance Management System using Face Recognition",
