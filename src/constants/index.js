@@ -238,8 +238,31 @@ const testimonials = [
 ];
 
 const projects = [
+  
   {
-    name: " ",
+    name: "cpu Scheduling Algorithm Visualizer",
+    description:
+      "A web application that visually demonstrates various CPU scheduling algorithms, allowing users to understand how different algorithms manage process execution and optimize CPU utilization.",
+    tags: [
+      {
+        name: "React.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Next.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: Mine_Wine,
+    source_code_link: "https://github.com/Cosmic88167/cpu_schedular",
+     live_hosted_link: "https://schedulor.netlify.app/",
+  },
+  {
+    name: " Attendance Management System using Face Recognition",
     description:
       "A web application that uses face recognition technology to manage attendance, allowing users to mark their presence by simply looking at the camera.",
    tags: [
@@ -265,28 +288,7 @@ const projects = [
       "https://github.com/Cosmic88167/attendance-management-system-using-face-recognition-",
     // live_hosted_link: "https://bluemercury-clone-masai.netlify.app/",
   },
-  {
-    name: "cpu Scheduling Algorithm Visualizer",
-    description:
-      "A web application that visually demonstrates various CPU scheduling algorithms, allowing users to understand how different algorithms manage process execution and optimize CPU utilization.",
-    tags: [
-      {
-        name: "React.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Next.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Tailwind CSS",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: Mine_Wine,
-    source_code_link: "https://github.com/Cosmic88167/cpu_schedular",
-     live_hosted_link: "https://schedulor.netlify.app/",
-  },
+  
   {
     name: " Image Caption Generator using CNN and LSTM",
     description:
