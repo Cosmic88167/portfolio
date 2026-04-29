@@ -239,16 +239,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Clories burn Prediction system",
+    name: " ",
     description:
-      "A web-based calorie burn prediction system that helps users estimate the number of calories burned during various physical activities based on user inputs such as weight, duration, and intensity of the activity.",
+      "A web application that uses face recognition technology to manage attendance, allowing users to mark their presence by simply looking at the camera.",
    tags: [
       {
         name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "Machine Learning",
+        name: "OpenCV",
         color: "green-text-gradient",
       },
       {
@@ -260,9 +260,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: bluemercury,
+    image: Bhatt_Estate,
     source_code_link:
-      "https://github.com/Cosmic88167/calories-burn-prediction-system-",
+      "https://github.com/Cosmic88167/attendance-management-system-using-face-recognition-",
     // live_hosted_link: "https://bluemercury-clone-masai.netlify.app/",
   },
   {
@@ -288,12 +288,12 @@ const projects = [
      live_hosted_link: "https://schedulor.netlify.app/",
   },
   {
-    name: "Attendance Management System using Face Recognition",
+    name: " Image Caption Generator using CNN and LSTM",
     description:
-      "A web application that utilizes face recognition technology to automate attendance tracking, allowing users to mark their attendance by simply capturing their facial image.",
+      "A web application that generates captions for images using convolutional neural networks and long short-term memory networks.",
     tags: [
       {
-        name: "React.js",
+        name: "CNN",
         color: "blue-text-gradient",
       },
       {
@@ -301,13 +301,13 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Flask",
+        name: "LSTM",
         color: "pink-text-gradient",
       },
     ],
-    image: Bhatt_Estate,
-    source_code_link: "https://github.com/Cosmic88167/attendance-management-system-using-face-recognition-",
-    // live_hosted_link: "https://bhatt-estate.onrender.com/",
+    image: bluemercury,
+    source_code_link: "https://github.com/Cosmic88167/image_caption_generator_using_CNN_LSTM",
+     live_hosted_link: "https://huggingface.co/spaces/cosmo88167/image-caption-generator",
   },
 ];
 
